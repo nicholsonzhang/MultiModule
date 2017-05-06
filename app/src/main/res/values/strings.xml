@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MultiModule</string>
+    <string name="title_drawer_layout">Drawer Layout</string>
 </resources>
