@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DrawerLayoutActivity"/>
+        <activity
+            android:theme="@style/AppTheme.NoActionBar"
+            android:name=".DrawerLayoutActivity"/>
     </application>
 
 </manifest>
