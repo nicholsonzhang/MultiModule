@@ -22,7 +22,7 @@ public class DrawerLayoutActivity extends BaseActivity {
     public void init(Bundle savedInstanceState) {
         setSupportActionBar(mToolbar);
 
-
+        //test
 
     }
 
